@@ -1,0 +1,1 @@
+aim of lesson: switch statements.
