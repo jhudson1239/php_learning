@@ -1,0 +1,1 @@
+aim of the lesson: select data from a database.
